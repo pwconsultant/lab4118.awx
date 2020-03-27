@@ -1,0 +1,2 @@
+chmod 400 ~/.ssh/pwood/id_rsa.pub
+ssh -i ~/.ssh/pwood/id_rsa pwood@lnxawx4118.eastus.cloudapp.azure.com
